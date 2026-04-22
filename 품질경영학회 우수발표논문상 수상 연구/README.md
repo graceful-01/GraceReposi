@@ -26,7 +26,7 @@
 
 - **결측치 처리 방식 4가지:** 단순 삭제 · 중앙값 대체 · KNN 대체 · 랜덤포레스트 기반 대체
 - **분류 모델 5가지:** SVM · Random Forest · KNN · Logistic Regression · Decision Tree
-- **총 20가지 조합** 실험 후 성능 비교
+- **총 20가지 조합** 5회 반복 측정 후 Accuracy와 ROC-AUC 지표 비교
 
 ---
 
